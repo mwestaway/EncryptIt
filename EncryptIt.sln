@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31112.23
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncryptIt", "EncryptIt\EncryptIt.csproj", "{09E3AE80-0FF4-4DEB-9A38-321CF09E3E8D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{09E3AE80-0FF4-4DEB-9A38-321CF09E3E8D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{09E3AE80-0FF4-4DEB-9A38-321CF09E3E8D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{09E3AE80-0FF4-4DEB-9A38-321CF09E3E8D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{09E3AE80-0FF4-4DEB-9A38-321CF09E3E8D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F15F64A4-EDBD-4952-8E1A-FB6EC7C4A35E}
+	EndGlobalSection
+EndGlobal
